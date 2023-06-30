@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1609156606 source:c:\users\rekinex\desktop\projekt gauss\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+
